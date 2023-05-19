@@ -165,6 +165,7 @@
             this.buttonRandom20.TabIndex = 12;
             this.buttonRandom20.Text = "隨機加入20筆";
             this.buttonRandom20.UseVisualStyleBackColor = true;
+            this.buttonRandom20.Click += new System.EventHandler(this.buttonRandom20_Click);
             // 
             // listView1
             // 

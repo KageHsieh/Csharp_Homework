@@ -279,5 +279,10 @@ namespace Form_Loan
 
 
         }
+
+        private void buttonRandom20_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
